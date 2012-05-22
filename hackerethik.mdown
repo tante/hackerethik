@@ -1,0 +1,35 @@
+# Hackerethik
+
+<hr>
+
+# Regeln
+
+## Axiom 1: <br> Daten sind **neutrale Objekte**.
+
+## Axiom 2:<br> Jeder Mensch hat das **Grundrecht auf Kommunikation** und den Ausdruck seiner oder ihrer Meinungen, Ideen, Gedanken und Wünsche.
+
+## Regel 1:<br> Der kategorische Imperativ gilt auch beim Hacken.
+
+## Regel 2:<br> Schütze die **Interessen der Einzelperson**.
+
+## Regel 3:<br> **Vermehre öffentliches Wissen**.
+
+## Regel 4:<br> Akzeptiere und **achte deine Mitmenschen** und ihre Bedürfnisse, bilde keine Eliten.
+
+## Regel 5:<br> Kümmere Dich um die anderen Hacker.
+
+## Regel 6:<br> Schaffe mehr Möglichkeiten in der Welt. **Bauen statt zerstören**.
+
+## Regel 7:<br> Lass Dich nicht **als Werkzeug missbrauchen**.
+
+## Regel 8:<br> **Fordere Aussagen, Regeln und Systeme heraus**, challenge Authorities.
+
+## Regel 9:<br> Hab **Spaß**, sei **kreativ**, sei eine Kraft der **positiven Veränderung**.
+
+# Heuristik
+
+## Wenn Du **2 oder mehr Regeln** brichst, ist es eine schlechte Idee.
+
+
+
+
