@@ -4,6 +4,9 @@ Meine Folien des Vortrags und alles weitere findet man unter [http://the-gay-bar
 
 Die Diskussion findet im Moment vor allem im Channel #hackerethik im Freenode Netzwerk statt.
 
+Der aktuelle Stand findet sich jeweils in lesbar unter
+[http://hackerethik.monkeycode.org](http://hackerethik.monkeycode.org)
+
 tante
 
 jabber:  tante@jabber.org
