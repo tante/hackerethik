@@ -2,34 +2,38 @@
 
 <hr>
 
+# Präambel
+
+In Zeiten zunehmender Technisierung des Lebens führen uns die Fähigkeiten und die Geisteshaltung des Hackers bzw. der Haeckse immer wieder an Punkte, an denen es nicht immer klar es, was die richtige Entscheidung ist.
+
+Darum haben wir gemeinsam die folgende Ethik entwickelt. Sie soll Dir helfen gute Entscheidungen zu treffen. Doch diese Regeln sind nicht perfekt. Du wirst dich in Situationen wiederfinden, in denen diese Regeln keine klare Aussage machen, in denen sie widersprüchlich sind oder gar eindeutig falsch. In diesem Falle nutze Deinen Verstand und stell Dir die Frage: Will ich in einer Welt leben, in der alle anderen sich auch so verhalten?"
+
+
 # Regeln
 
-## Axiom 1: <br> Daten sind **neutrale Objekte**.
+## Axiom 1:<br> Daten sind **neutrale Objekte**.
 
 ## Axiom 2:<br> Jeder Mensch hat das **Grundrecht auf Kommunikation** und den Ausdruck seiner oder ihrer Meinungen, Ideen, Gedanken und Wünsche.
 
-## Regel 1:<br> Der kategorische Imperativ gilt auch beim Hacken.
 
-## Regel 2:<br> Schütze die **Interessen der Einzelperson**.
+## Regel 1:<br> Schütze die **Rechte der Einzelperson**.
 
-## Regel 3:<br> **Vermehre öffentliches Wissen**.
+## Regel 2:<br> Akzeptiere und **achte deine Mitmenschen** und ihre Bedürfnisse.
 
-## Regel 4:<br> Akzeptiere und **achte deine Mitmenschen** und ihre Bedürfnisse, bilde keine Eliten.
+## Regel 3:<br> Teile dein Wissen. Hilf Anderen beim Lernen und Verstehen. **Vermehre öffentliches Wissen**.
 
-## Regel 5:<br> Kümmere Dich um die anderen Hacker.
+## Regel 4:<br> Kümmere Dich um Dich und die Hacker und Haecksen um dich herum.
 
-## Regel 6:<br> Schaffe mehr Möglichkeiten in der Welt. **Bauen statt zerstören**.
+## Regel 5:<br> Schaffe mehr Möglichkeiten in der Welt. **Bauen statt zerstören**.
 
-## Regel 7:<br> Lass Dich nicht **als Werkzeug missbrauchen**.
+## Regel 6:<br> Lass Dich nicht **als Werkzeug missbrauchen**.
 
-## Regel 8:<br> **Fordere Aussagen, Regeln und Systeme heraus**, challenge Authorities.
+## Regel 7:<br> **Fordere Aussagen, Regeln und Systeme heraus**. Hinterfrage Authoritäten. Bilde keine Eliten.
+
+## Regel 8:<br> Schaffe keine Monopole, fördere **Dezentralisierung**.
 
 ## Regel 9:<br> Hab **Spaß**, sei **kreativ**, sei eine Kraft der **positiven Veränderung**.
 
-# Heuristik
-
-## Wenn Du **2 oder mehr Regeln** brichst, ist es eine schlechte Idee.
-
-
+## Regel 10:<br>Wenn Du **2 oder mehr Regeln** brichst, ist es eine schlechte Idee.
 
 
